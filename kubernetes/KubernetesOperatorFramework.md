@@ -8,4 +8,14 @@ Define a custom resource with a Custom Resource Definition (CRD).
 
 Implement a controller (written in Go) to implement the custom functionality. The controllers watches for new CRDs to be created and then acts accordingly - reconcile current state with desired state (e.g. create new object). 
 
+https://medium.com/@santoshpai/creating-a-kubernetes-operator-using-operator-sdk-43b69ff82cb
 
+
+
+https://sdk.operatorframework.io/
+
+https://github.com/operator-framework
+
+https://kubernetes.io/docs/concepts/extend-kubernetes/operator/
+
+https://docs.python.org/3/
