@@ -1,0 +1,12 @@
+replicaCount: 1
+
+image:
+  repository: nginx
+  tag: stable
+
+secret:
+  username: "prod-username"
+  password: "prod-password"
+
+config:
+  myConfigKey: "prod-config-value"

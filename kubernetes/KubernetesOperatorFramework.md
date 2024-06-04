@@ -19,3 +19,7 @@ https://github.com/operator-framework
 https://kubernetes.io/docs/concepts/extend-kubernetes/operator/
 
 https://docs.python.org/3/
+
+https://pkg.go.dev/sigs.k8s.io/controller-runtime#section-readme
+
+https://book.kubebuilder.io/cronjob-tutorial/empty-main

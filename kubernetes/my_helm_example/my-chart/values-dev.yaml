@@ -1,0 +1,12 @@
+replicaCount: 1
+
+image:
+  repository: nginx
+  tag: latest
+
+secret:
+  username: "dev-username"
+  password: "dev-password"
+
+config:
+  myConfigKey: "dev-config-value"

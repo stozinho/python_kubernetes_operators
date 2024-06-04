@@ -1,0 +1,12 @@
+replicaCount: 1
+
+image:
+  repository: nginx
+  tag: latest
+
+secret:
+  username: "my-username"
+  password: "my-password"
+
+config:
+  myConfigKey: "my-config-value"

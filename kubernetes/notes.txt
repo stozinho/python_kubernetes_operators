@@ -1,3 +1,9 @@
-ehtFTZHgRcDUc3Xd
+tmux new
 
 mkctl port-forward service/argo-cd-argocd-server -n argocd 8080:443
+
+ctrl +b, d
+
+https://127.0.0.1:8080/
+
+ehtFTZHgRcDUc3Xd
