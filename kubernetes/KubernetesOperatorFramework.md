@@ -28,6 +28,10 @@ https://book.kubebuilder.io/cronjob-tutorial/empty-main
 
 https://book.kubebuilder.io/cronjob-tutorial/gvks
 
+https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns
+
+https://book.kubebuilder.io/quick-start
+
 # Groups, versions and Kinds 
 
 # GVR Group Version Resource
